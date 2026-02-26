@@ -1,23 +1,23 @@
-# 🎓 Student Registration & Analysis App
+# Student Registration & Analysis App
 
 A dynamic student registration dashboard built using **Streamlit** and **Python**.
 This app allows users to register students, store data using session state, and view live statistics such as total students, average age, and total fees collected.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📋 Student Registration Form
-* 📊 Real-time Data Table
-* 📈 Average Age Calculation
-* 💰 Total Fee Calculation
-* 🧠 Session State (Data persists during session)
-* 🎨 Custom Background Styling
-* 🗂 Sidebar Course & Mode Selection
+*  1.Student Registration Form
+*  2. Real-time Data Table
+*  3. Average Age Calculation
+*  4. Total Fee Calculation
+*  6. Session State (Data persists during session)
+*  7. Custom Background Styling
+*  8.Sidebar Course & Mode Selection
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * Streamlit
@@ -25,9 +25,9 @@ This app allows users to register students, store data using session state, and 
 
 ---
 
-## 📸 App Functionality
+##  App Functionality
 
-### 1️⃣ Register Students
+### 1.Register Students
 
 * Name
 * Age
@@ -36,49 +36,19 @@ This app allows users to register students, store data using session state, and 
 * Joining Date
 * Paid Fee
 
-### 2️⃣ Automatic Calculations
+### 2.Automatic Calculations
 
 * Total Students
 * Average Age
 * Total Fees Collected
 
-### 3️⃣ Data Storage
+### 3.Data Storage
 
 Uses `st.session_state` to persist data during the app session.
 
 ---
 
-## 📦 Installation & Run Locally
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into folder
-cd your-repo-name
-
-# Install dependencies
-pip install streamlit pandas
-
-# Run app
-streamlit run app.py
-```
-
----
-
-## 📁 Project Structure
-
-```
-student-registration-app/
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -91,7 +61,7 @@ This project demonstrates:
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 * Add delete student option
 * Add gender-wise statistics
@@ -101,9 +71,9 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Developed as a hands-on Streamlit practice project.
+Developed as a hands on Streamlit practice project.
 
 ---
 
