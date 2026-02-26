@@ -8,12 +8,12 @@ This app allows users to register students, store data using session state, and 
 ##  Features
 
 *  1.Student Registration Form
-*  2. Real-time Data Table
-*  3. Average Age Calculation
-*  4. Total Fee Calculation
-*  6. Session State (Data persists during session)
-*  7. Custom Background Styling
-*  8.Sidebar Course & Mode Selection
+*  2.Real-time Data Table
+*  3.Average Age Calculation
+*  4.Total Fee Calculation
+*  5.Session State (Data persists during session)
+*  6.Custom Background Styling
+*  7.Sidebar Course & Mode Selection
 
 ---
 
