@@ -75,6 +75,4 @@ This project demonstrates:
 
 Developed as a hands on Streamlit practice project.
 
----
 
-⭐ If you like this project, consider giving it a star!
